@@ -7,6 +7,6 @@ Schematics - contains the schematics for the entire project <br />
 ## Implemented By,
 Achintya Harsha <br />
 Akash Perla <br />
-Barath S Narayan
+Barath S Narayan <br />
 Pandey Shourya Prasad <br />
 Yash Bansal
